@@ -9,7 +9,9 @@ package com.mycompany.students;
  * @author DELL 7510
  */
 public class Students {
-
+    public void xuat(){
+        System.out.println("heloo");
+    }
     public void nhap(){
         System.out.println("hello");
     
