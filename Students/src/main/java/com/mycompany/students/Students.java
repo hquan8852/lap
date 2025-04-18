@@ -10,6 +10,10 @@ package com.mycompany.students;
  */
 public class Students {
 
+    public void nhap(){
+        System.out.println("hello");
+    
+    }
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
