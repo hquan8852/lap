@@ -7,6 +7,6 @@
  *
  * @author DELL 7510
  */
-public class cec {
+public class jkhsadhasa {
     
 }
